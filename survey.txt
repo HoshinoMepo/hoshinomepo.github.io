@@ -1,0 +1,13 @@
+# 2026-11-07 用户：「发个调查问卷 下一个要做的游戏桌内容 ①对战类 ②骗子牌 ③恶魔轮盘 ④德州扑克 ⑤三国杀 奖励2000」
+id: 1
+reward: 2000
+minutes: 120
+title: 下一个游戏桌调查 | Next Game Table Survey
+intro: 想听听大家的意见：下一个游戏桌做什么？ | We'd like your opinion: what should the next game table be?
+thanks: 感谢您宝贵的意见，下一个游戏桌会参考大家的选择！\n\n如果有更多意见，欢迎加入 QQ 群：<color=#FFD27A>1081176823</color> | Thank you for your feedback! The next game table will follow everyone's choices.\n\nFor more feedback, join our QQ group: <color=#FFD27A>1081176823</color>
+q: 你希望下一个做什么游戏桌？ | What game table would you like next?
+o: 对战类 | Versus games
+o: 骗子牌 | Liar's cards
+o: 恶魔轮盘 | Devil's roulette
+o: 德州扑克 | Texas Hold'em
+o: 三国杀 | Sanguosha (Three Kingdoms)
